@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Youshin Chung"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "Hello, Quantum World!"
   links:
     - label: "GitHub"
